@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "course_title": "Mathematics ",
+    "price": 600,
+    "author": "Ronnie Russel",
+    "img": "https://i.pinimg.com/originals/6e/07/9f/6e079ffeb8b9a1ed3a0bf3f12bf4d900.jpg"
+  },
+  {
+    "id": 2,
+    "course_title": "Java Training",
+    "price": 350,
+    "author": "Hugh Wilkinson",
+    "img": "https://i.ytimg.com/vi/GoXwIVyNvX0/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "course_title": "C++ Basic",
+    "price": 200,
+    "author": "David Met",
+    "img": "https://cryptch.tech/images/courses/cplusplus.jpg"
+  },
+  {
+    "id": 4,
+    "course_title": "Python Advance",
+    "price": 210,
+    "author": "Kim Cronin",
+    "img": "https://thumbs.dreamstime.com/z/d-illustration-python-online-course-advertisement-python-language-e-learning-banner-python-computer-course-programming-169205393.jpg"
+  },
+  {
+    "id": 5,
+    "course_title": "Physic Everywhere",
+    "price": 250,
+    "author": "Caroline Koss",
+    "img": "https://thumbs.dreamstime.com/z/physics-doodles-lettering-white-background-education-vector-banner-physics-doodles-lettering-137764743.jpg"
+  },
+
+  {
+    "id": 7,
+    "course_title": "Learning English",
+    "price": 300,
+    "author": "Jose Shield",
+    "img": "https://www.legalnannyservices.com/wp-content/uploads/2020/11/learning-english.jpg"
+  },
+
+  {
+    "id": 10,
+    "course_title": "Writting English",
+    "price": 500,
+    "author": "Brittany DuBuque",
+    "img": "https://image.shutterstock.com/image-vector/horizontal-internet-banner-about-learning-260nw-1603435279.jpg"
+  },
+  {
+    "id": 11,
+    "course_title": "Ielts",
+    "price": 400,
+    "author": "Rickey Schaefer",
+    "img": "https://www.britishcouncil.org.bd/sites/default/files/ielts_red_-_new_ielts_landing_page_preview_image.png"
+  },
+  {
+    "id": 12,
+    "course_title": "GRE",
+    "price": 300,
+    "author": "Myrtle Marquardt",
+    "img": "https://wp-media.petersons.com/blog/wp-content/uploads/2020/03/10122934/GRE_Thumbnail_FINAL.jpg"
+  }
+]

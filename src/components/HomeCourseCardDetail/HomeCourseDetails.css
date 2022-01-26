@@ -1,0 +1,9 @@
+ .home-card{
+     background-color: rgb(223, 180, 175);
+ }
+
+ .home-card:hover{
+     box-shadow:  2px 2px 2px 2px rgb(129, 131, 124);
+ }
+
+ 

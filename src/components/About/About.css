@@ -1,0 +1,60 @@
+
+.aboutusheadpic{
+    height: 250px;
+}
+
+.aboutcardpic{
+    height: 100px;
+    width: 160px;
+    margin-left: 120px;
+    padding: 5px;
+}
+
+.aboutcardbody{
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.resources-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 120px;
+}
+
+.resources-container{
+  
+    margin-left: 80px;
+    padding: 20px;
+}
+
+.resource{
+   background-color: #FBEAEB;    
+}
+
+div .resources-card-title{
+    text-transform: uppercase;
+}
+
+.aboutcardtitle{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+div .about-btn{
+    width: 180px;
+    background-color: #EEA47FFF;
+    
+}
+
+@media only screen and (max-width: 600px) and (min-width: 400px){
+
+    .col{
+       padding: 10px;
+    }
+
+    .aboutcardpic{
+        margin-left: 120px;
+    }
+}

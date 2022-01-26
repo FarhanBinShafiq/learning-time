@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&family=Mochiy+Pop+P+One&family=Oswald:wght@200&family=Sedgwick+Ave&display=swap');
+
+.header{
+    background-color: #e0d8d8;
+}
+
+.logo{
+    height: 80px;
+    width: 80px;
+}
+.nav-menu{
+    margin-left: 340px;
+}
+.nav-link{
+    margin-left: 20px;
+    font-size: larger;
+ 
+    text-transform: uppercase;
+    
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+    
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #198754;
+}
+
+
+
+@media only screen and (max-width: 800px) and (min-width: 320px){
+
+  
+
+    .nav-menu{
+        margin-left: 150px;
+    }
+
+    .nav-link{
+        
+        font-size:medium;
+        font-weight: 500;
+        text-transform: uppercase;
+        
+    }
+}
+
+
+@media only screen and (max-width: 1024px) and (min-width: 801px){
+    .nav-menu{
+        margin-left: 300px;
+    }
+    .nav-link{
+      
+        font-size: larger;
+        font-weight: 500;
+        text-transform: uppercase;
+        
+    }
+}
+

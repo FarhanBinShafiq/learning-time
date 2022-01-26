@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "course_title": "Mathematics ",
+    "price": 600,
+    "author": "Ronnie Russel",
+    "img": "https://i.pinimg.com/originals/6e/07/9f/6e079ffeb8b9a1ed3a0bf3f12bf4d900.jpg"
+  },
+  {
+    "id": 2,
+    "course_title": "Java Training",
+    "price": 350,
+    "author": "Hugh Wilkinson",
+    "img": "https://i.ytimg.com/vi/GoXwIVyNvX0/maxresdefault.jpg"
+  },
+  {
+    "id": 3,
+    "course_title": "C++ Basic",
+    "price": 200,
+    "author": "David Met",
+    "img": "https://cryptch.tech/images/courses/cplusplus.jpg"
+  },
+  {
+    "id": 4,
+    "course_title": "Python Advance",
+    "price": 210,
+    "author": "Kim Cronin",
+    "img": "https://thumbs.dreamstime.com/z/d-illustration-python-online-course-advertisement-python-language-e-learning-banner-python-computer-course-programming-169205393.jpg"
+  }
+  
+]

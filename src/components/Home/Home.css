@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&family=Mochiy+Pop+P+One&family=Oswald:wght@200&family=Sedgwick+Ave&display=swap');
+
+h1,h2,h6,p{
+    font-family: 'Inconsolata', monospace;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Sedgwick Ave', cursive;
+}
+
+.top-span{
+  text-transform: uppercase;    
+}
+
+.home-btn{
+    background-color: #198754 !important;
+    width: 150px;
+    height: 50px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sedgwick Ave', cursive;
+}
